@@ -1,0 +1,19 @@
+.container {
+    width: 100px;
+    height: auto;
+  }
+
+  .flex_display {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .btn_reset {
+    display: flex;
+    justify-content: center;
+  }
+
+  .margin {
+    /* margin-right: 20px; */
+    margin-top: 20px;
+  }
